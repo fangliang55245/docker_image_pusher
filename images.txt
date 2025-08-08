@@ -3,7 +3,7 @@
 #gitlab/gitlab-ce
 #redis:alpine3.22
 #bitnami/postgresql
-sameersbn/postgresql
+#sameersbn/postgresql
 sameersbn/gitlab
 #mysql
 #支持私库
