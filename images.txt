@@ -1,6 +1,8 @@
-nginx
-jenkins/jenkins:jdk21
-gitlab/gitlab-ce
+#nginx
+#jenkins/jenkins:jdk21
+#gitlab/gitlab-ce
+redis:alpine3.22
+bitnami/postgresql
 #mysql
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
