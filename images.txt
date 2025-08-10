@@ -1,6 +1,7 @@
 #nginx
 #jenkins/jenkins:jdk21
-gitlab/gitlab-ce
+jenkins/jenkins:lts-jdk17
+#gitlab/gitlab-ce
 #redis:alpine3.22
 #bitnami/postgresql
 #sameersbn/postgresql
