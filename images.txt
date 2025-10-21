@@ -3,10 +3,11 @@
 #jenkins/jenkins:lts-jdk17
 #gitlab/gitlab-ce
 #redis:alpine3.22
-maven:3.6.0-jdk-8-alpine
+#maven:3.6.0-jdk-8-alpine
 #bitnami/postgresql
 #sameersbn/postgresql
 #sameersbn/gitlab
+minio:RELEASE.2023-11-15T20-43-25Z
 #mysql
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
